@@ -8,3 +8,4 @@ Sales Analysis:- 1.Sales Breakdown by Country – The United States, Canada, Fra
 Profit Analysis:- 1.Profit by Country – France leads in profitability, followed by Germany and Canada. 2.Profit by Segment – The Government sector is the most profitable, while the Enterprise sector shows a negative profit. 3.Profit by Product – "Paseo" generates the highest profit, followed by VTT and Amarilla.
 
 For Interaction:- 1.Filters for Year, Product, and Segment to analyze data dynamically. 2.Clickable navigation buttons for easy movement between pages.
+![image](https://github.com/user-attachments/assets/1fc66d6b-6f9b-4908-9cb2-63594c596a20)
